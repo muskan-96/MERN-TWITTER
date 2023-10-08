@@ -1,0 +1,20 @@
+.outer-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
+  }
+  
+  .left-box {
+    width: 30%;
+    height: 400px;
+    background-color: #1f28da;
+  }
+  
+  .right-box {
+    width: 40%;
+    height: 400px;
+    background-color: hsl(233, 80%, 98%);
+  }
+  

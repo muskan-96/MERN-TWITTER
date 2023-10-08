@@ -1,0 +1,27 @@
+.outer-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: white;
+  }
+  
+  .left-box {
+    width: 30%;
+    height: 400px;
+    background-color: #4853c6;
+  }
+  
+  .right-box {
+    width: 40%;
+    height: 400px;
+    background-color: hsl(233, 80%, 98%);
+  }
+  .input-narrow {
+    width: 400px;
+    height: 30px;
+    margin-top: 14px;
+  }
+  h1{
+    color: white;
+  }

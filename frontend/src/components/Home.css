@@ -1,0 +1,39 @@
+.tweets{
+    background-color:pink;
+        position: absolute;
+        max-width: 780px;
+        margin-left: 20px;
+        right: 50px;
+        left: 390px;
+        top: 0;
+    
+    
+    
+}
+.posts {
+    width: 50%;
+    margin-left: 25%;
+    border-right: 1px solid #e6ecf0;
+  }
+  .posts__home {
+    width: 50%;
+    position: fixed;
+    top: 0;
+    padding: 15px;
+    font-weight: 700;
+    border-bottom: 1px solid #e6ecf0;
+    font-size: 18px;
+    background: #fff;
+    border-right: 1px solid #e6ecf0;
+  }
+
+
+.row{
+    background-color: rgb(254, 242, 242);
+    width: 700px;
+    margin-left: 26px;
+}
+.tcontainer{
+    background-color: rgb(168, 168, 173);
+
+}
